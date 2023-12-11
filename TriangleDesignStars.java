@@ -17,3 +17,12 @@ public class TriangleDesignStars
         }
     }
 }
+/*
+Enter no. of rows
+5
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+    */
