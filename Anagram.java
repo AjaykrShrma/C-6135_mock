@@ -32,3 +32,11 @@ public class Anagram
         an.anag();
     }
 }
+/*
+Enter two Strings 
+Ajay
+yaja
+String1= Ajay
+String2= yaja
+Anagram
+    */
