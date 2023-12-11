@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Anagrams
+public class Anagram
 {
     void anag()
     {
@@ -28,7 +28,7 @@ public class Anagrams
     }
     public static void main(String[]ak)
     {
-        Anagrams an=new Anagrams();
+        Anagram an=new Anagram();
         an.anag();
     }
 }
